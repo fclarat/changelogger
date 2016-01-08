@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites>
-  <testsuite name="ChangeloggerTest" file="/var/www/changelogger/tests/ChangeloggerTest.php" tests="1" assertions="1" failures="0" errors="0" time="0.130413">
-    <testcase name="testGivenAProjectNameShouldReturnAHistoryLog" class="ChangeloggerTest" file="/var/www/changelogger/tests/ChangeloggerTest.php" line="8" assertions="1" time="0.130413"/>
-  </testsuite>
-</testsuites>
