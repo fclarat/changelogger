@@ -1,0 +1,16 @@
+{
+  "require": {
+    "silex/silex": "~1.2",
+    "symfony/yaml" : "2.4@stable",
+    "mockery/mockery": "*",
+    "symfony/validator": "~2.3",
+    "tan-tan-kanarek/github-php-client": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Controllers\\": "src/Controllers",
+      "Models\\": "src/Models"
+    }
+  }
+
+}
